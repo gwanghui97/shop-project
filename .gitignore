@@ -185,3 +185,4 @@ server/src/*/*.iml
 
 mysql_data
 src/main/generated/
+src/test/resources/application.yml
